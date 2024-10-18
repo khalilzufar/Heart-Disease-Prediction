@@ -1,7 +1,7 @@
-# Heart Disease Prediction Project ❤️
+# Heart Disease Prediction ❤️
 
 ## Overview
-This project aims to develop a predictive model to identify individuals at risk of heart failure based on available medical data. The analysis includes data exploration, cleaning, modeling, and evaluation to provide actionable insights for preventive measures.
+This project aims to develop a predictive model to identify individuals at risk of heart failure based on available medical data. The analysis includes data exploration, cleaning, modeling, and evaluation to provide actionable insights for preventive measures. The model is accessible via a demo deployment on Hugging Face, allowing users to input their medical data and receive risk predictions, which promotes early detection and prevention of heart disease.
 
 ## Objectives
 - Identify individuals at high risk of heart disease using medical data.
@@ -20,7 +20,7 @@ This project aims to develop a predictive model to identify individuals at risk 
 
 ## Related Project Links
  - [Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-
+ - [Demo Deployment on Hugging Face](khalilzufar/heart_disease_prediction)
 ## How to Use
 1. Clone this repository:
    ```bash
